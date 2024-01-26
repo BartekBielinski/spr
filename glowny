@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sprawdzian</title>
+</head>
+<body>
+    <p style="font-size: 25px;"align=center>Bartosz Bieliński</p>
+    <p style="font-size: 25px;"align=center >2k</p>
+    <p style="font-size: 25px;"align=center>26.01.2024</p>
+
+    <img src="mapa_bielinski1.gif" alt="Mapa Bieliński" usemap="#bielinskiMap">
+    <map name="bielinskiMap">
+        <area shape="rect" coords="27,122,329,319" alt="Prostokąt" href="prostokat_bielinski1.html">
+        <area shape="circle" coords="447,115,100" alt="Koło" href="okrag_bielinski1.html">
+    </map>
+</body>
+</html>
